@@ -12,6 +12,7 @@ body {
 
 main {
   padding: 36px;
+  text-align: center;
 }
 
 .header {
@@ -61,4 +62,9 @@ i.e. 20px / 16 = 1.25rem */
   color: white;
   border: none;
   cursor: pointer;
+}
+
+.meme--image {
+  padding: 20px;
+  height: 75vh;
 }
